@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Ecommerce Api](https://github.com/lecon20122/EcommerceApi)
 
-- 🌱 I’m currently learning **ASP.NET CORE**
+- 🌱 I’m currently learning **ASP.NET CORE AND Unit Testing Tools**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lecon20122](https://github.com/lecon20122)
 
