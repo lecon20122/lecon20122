@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lecon20122&label=Profile%20views&color=0e75b6&style=flat" alt="lecon20122" /> </p>
 
-- 🔭 I’m currently working on [Ecommerce Api](https://github.com/lecon20122/EcommerceApi)
+- 🔭 I’m currently working on [Personal Budget Api](https://github.com/lecon20122/PersonalBudgetApi)
 
-- 🌱 I’m currently learning **ASP.NET CORE AND Unit Testing Tools**
+- 🌱 I’m currently learning **ASP.NET CORE AND Unit Testing Tools and Moq Techniques**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lecon20122](https://github.com/lecon20122)
 
