@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **ASP.NET CORE AND Unit Testing Tools and Moq Techniques**
 
+- :green_book: I’m currently reading **Head First Objects-Oriented Analysis and Design**
+
 - 👨‍💻 All of my projects are available at [https://github.com/lecon20122](https://github.com/lecon20122)
 
 - 📫 How to reach me **muastafakhaledsaid@gmail.com**
